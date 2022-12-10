@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - kljucevi
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - pozadina
+  - player
+  - platforma
+  - nepomicni objekti
+  - kljuc
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: pozadina
+    uniqueID: 1746908415
+    locked: 0
+  - name: platforma
+    uniqueID: 3322426687
+    locked: 0
+  - name: player
+    uniqueID: 3258799389
+    locked: 0
+  - name: nepomicni objekti
+    uniqueID: 1251331463
+    locked: 0
+  - name: neprijatelj
+    uniqueID: 4198627243
+    locked: 0
+  - name: kljuc
+    uniqueID: 67216311
+    locked: 0
+  - name: siljak
+    uniqueID: 3760144517
+    locked: 0
